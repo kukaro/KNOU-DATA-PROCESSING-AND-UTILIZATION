@@ -1,0 +1,1 @@
+SELECT cid, NAME, job, married FROM customer_info WHERE job = '회사원';

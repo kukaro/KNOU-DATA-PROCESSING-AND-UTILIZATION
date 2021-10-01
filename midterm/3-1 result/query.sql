@@ -1,0 +1,7 @@
+SELECT * FROM customer_info WHERE ROWNUM <= 5;
+SELECT * FROM customer_onlineinfo WHERE ROWNUM <= 5;
+SELECT * FROM customer_score WHERE ROWNUM <= 5;
+SELECT * FROM product WHERE ROWNUM <= 5;
+SELECT * FROM region WHERE ROWNUM <= 5;
+SELECT * FROM sales WHERE ROWNUM <= 5;
+SELECT * FROM store WHERE ROWNUM <= 5;

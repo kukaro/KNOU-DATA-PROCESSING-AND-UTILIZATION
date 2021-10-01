@@ -1,0 +1,1 @@
+SELECT * FROM customer_score WHERE off_score + on_score BETWEEN 100 AND 500;

@@ -1,0 +1,1 @@
+SELECT * FROM sales WHERE saleid<10 AND cid='100001';
